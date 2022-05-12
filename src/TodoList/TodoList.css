@@ -1,0 +1,11 @@
+.containerTodoItem {
+  border-radius: 8px;
+  background: linear-gradient(45deg, #9d9ece, #babbf5);
+  box-shadow: 5px -5px 0px #46465c, -5px 5px 0px #ffffff;
+}
+
+ul {
+  margin: 0;
+  padding: 0 0 56px 0;
+  list-style: none;
+}
